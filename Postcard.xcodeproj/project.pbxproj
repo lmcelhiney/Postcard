@@ -162,6 +162,7 @@
 		01352B5019F9C1AA00C82D31 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Larry McElhiney";
 				TargetAttributes = {
@@ -415,6 +416,7 @@
 				01352B7919F9C1AA00C82D31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		01352B7A19F9C1AA00C82D31 /* Build configuration list for PBXNativeTarget "PostcardTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +425,7 @@
 				01352B7C19F9C1AA00C82D31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
